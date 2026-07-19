@@ -20,7 +20,8 @@ A Streamlit web application provides an interactive interface where users can en
 - Build an interactive web application using Streamlit.
 - Analyze student data through visualizations.
 
-- ## ✨ Features
+
+## ✨ Features
 
 - Predict Final Exam Score
 - Predict Student Performance Category
@@ -30,7 +31,7 @@ A Streamlit web application provides an interactive interface where users can en
 - User-Friendly Interface
 - Machine Learning Model Integration
 
-- ## 💻 Technologies Used
+## 💻 Technologies Used
 
 - Python
 - Pandas
@@ -38,9 +39,10 @@ A Streamlit web application provides an interactive interface where users can en
 - Scikit-Learn
 - Matplotlib
 - Streamlit
-- Joblib
+- Joblib## 💻 Technologies Used
 
-- ## 🤖 Machine Learning Algorithms
+
+## 🤖 Machine Learning Algorithms
 
 ### Linear Regression
 
@@ -57,24 +59,25 @@ Used to classify students into:
 
 ### Principal Component Analysis (PCA)
 
-Used for dimensionality reduction to improve data processing efficiency.
+Used for dimensionality reduction to improve data processing efficiency.## 📂 Dataset
+
+
 
 ## 📂 Dataset
 
-Dataset Name:
+## Dataset
 
-Student Academic Performance Dataset
+The original dataset is not included in this repository because of its size.
 
-Dataset Size:
+Download it from:
 
-- 500,000 Records
-- 27 Original Features
+https://www.kaggle.com/your-dataset-link
 
-After preprocessing:
+After downloading, place it in:
 
-- 46 Features
+dataset/new.csv
 
-- ## 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 student-performance-prediction/
@@ -161,6 +164,7 @@ Displays:
 
 Project information and developer details.
 
+
 ## 📊 Model Performance
 
 ### Linear Regression
@@ -171,6 +175,7 @@ Project information and developer details.
 ### Logistic Regression
 
 - Accuracy: **74.14%**
+
 
 ## 🚀 Future Improvements
 
